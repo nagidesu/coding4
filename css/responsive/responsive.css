@@ -125,7 +125,7 @@
 
 @media (max-width: 480px) {
   .top .bg {
-    background-image: url(/img/responsive/sp_top_bg.jpg);
+    background-image: url(https://nagidesu.github.io/coding4/img/responsive/sp_top_bg.jpg);
     height: 710px;
     width: 100%;
     position: relative;
@@ -194,7 +194,7 @@
     display: block;
   }
   .contact .wrapper {
-    background-image: url(/img/responsive/sp_copntact_bg.jpg);
+    background-image: url(https://nagidesu.github.io/coding4/img/responsive/sp_copntact_bg.jpg);
     height: 740px;
     background-size: cover;
     background-position: center;
