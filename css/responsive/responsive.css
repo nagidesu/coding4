@@ -1,6 +1,6 @@
 @media (max-width: 800px) {
   .top .bg .wrapper .header .menu_border {
-    top: 55px;
+    top: 30px;
     right: 100px;
   }
   .top .bg .wrapper .header .menu {
@@ -144,7 +144,7 @@
     font-size: 6rem;
   }
   .top .bg .wrapper .header .menu_border {
-    right: 50px;
+    right: 20px;
   }
   .concept .bg .bg_white {
     height: 530px;
